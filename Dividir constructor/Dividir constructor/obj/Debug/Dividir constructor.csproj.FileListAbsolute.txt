@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\bin\Debug\Dividir constructor.exe.config
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\bin\Debug\Dividir constructor.exe
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\bin\Debug\Dividir constructor.pdb
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\obj\Debug\Dividir constructor.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\obj\Debug\Dividir constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\obj\Debug\Dividir_constructor.Form1.resources
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\obj\Debug\Dividir_constructor.Properties.Resources.resources
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\obj\Debug\Dividir constructor.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\obj\Debug\Dividir constructor.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\obj\Debug\Dividir constructor.exe
+C:\Users\emili\source\repos\Dividir constructor\Dividir constructor\obj\Debug\Dividir constructor.pdb
